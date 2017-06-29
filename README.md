@@ -1,0 +1,2 @@
+# ACADGILD_BIG_DATA_S1_A1
+BIG DATA Session 1 Assignment 1
